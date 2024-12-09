@@ -1,2 +1,2 @@
-# hw2
-homework2
+# hwjs2
+homeworkjavascript2
